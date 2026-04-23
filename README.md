@@ -3,7 +3,7 @@
 <p align="center">
   A real-device Android automation system for end-to-end Snapchat+ gift delivery — built for scale, stability, and precision.
 </p>
----
+
 
 
 <p align="center">
