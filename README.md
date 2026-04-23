@@ -3,12 +3,6 @@
 <p align="center">
   A real-device Android automation system for end-to-end Snapchat+ gift delivery — built for scale, stability, and precision.
 </p>
-
-<p align="center">
-  Created by Appilot, built to showcase our approach to Automation!<br>
-  <strong>If you are looking for custom Snapchat gifting automation, you've just found your team — Let's Chat.</strong>
-</p>
-
 ---
 
 
@@ -31,6 +25,13 @@
     <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
+
+
+<p align="center">
+  Created by Appilot, built to showcase our approach to Automation!<br>
+  <strong>If you are looking for custom Snapchat gifting automation, you've just found your team — Let's Chat.</strong>
+</p>
+
 
 
 ## Introduction
